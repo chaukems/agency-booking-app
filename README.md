@@ -19,7 +19,7 @@
  
 # H2 Connection details
 
-JDBC URL: jdbc:h2:mem:testdb
-username: sa
-password: password
+ - JDBC URL: jdbc:h2:mem:testdb
+ - username: sa
+ - password: password
  
