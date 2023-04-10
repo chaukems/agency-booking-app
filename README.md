@@ -23,3 +23,10 @@
  - username: sa
  - password: password
  
+## Screenshots
+**Bookings**
+![room_pricing]https://github.com/chaukems/agency-booking-app/Screenshot 2023-04-10 095309.png)
+
+**DB Bookings**
+![room_pricing]https://github.com/chaukems/agency-booking-app/Screenshot 2023-04-10 095541.png)
+ 
