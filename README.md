@@ -25,8 +25,8 @@
  
 ## Screenshots
 **Bookings**
-![room_pricing]https://github.com/chaukems/agency-booking-app/Screenshot 2023-04-10 095309.png)
+![All_Bookings]https://github.com/chaukems/agency-booking-app/bookings_095309.png)
 
 **DB Bookings**
-![room_pricing]https://github.com/chaukems/agency-booking-app/Screenshot 2023-04-10 095541.png)
+![DB_listing]https://github.com/chaukems/agency-booking-app/h2_db.png)
  
