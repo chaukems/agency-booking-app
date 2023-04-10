@@ -25,8 +25,8 @@
  
 ## Screenshots
 **Bookings**
-![All_Bookings]https://github.com/chaukems/agency-booking-app/bookings_095309.png)
+![All_Bookings]https://github.com/chaukems/agency-booking-app/bookings_095309.png
 
 **DB Bookings**
-![DB_listing]https://github.com/chaukems/agency-booking-app/h2_db.png)
+![DB_listing]https://github.com/chaukems/agency-booking-app/h2_db.png
  
